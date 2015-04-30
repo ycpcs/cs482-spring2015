@@ -18,3 +18,6 @@ All information about the course will be posted here.
 * **Jan 26** - Welcome back!
 * **Feb 2** - Milestone 1 - Formal Proposal Due.
 * **Mar 16 - Minimal Working System Demo Due.**
+* **Apr 13 - 50% Working System Demo Due.**
+* **May 11 - 12:45-2:45pm Final Working System Demo Due.**
+* **May 14 - 5pm Final Report Due.**
