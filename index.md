@@ -20,4 +20,4 @@ All information about the course will be posted here.
 * **Mar 16 - Minimal Working System Demo Due.**
 * **Apr 13 - 50% Working System Demo Due.**
 * **May 11 - 12:45-2:45pm Final Working System Demo Due.**
-* **May 14 - 5pm Final Report Due.**
+* **May 14 - Final Report Due by 5pm.**
